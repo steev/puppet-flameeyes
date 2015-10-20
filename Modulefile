@@ -9,4 +9,4 @@ In particular this includes support for Gentoo-specific OpenRC
 oldnet network configuration.'
 project_page 'https://github.com/Flameeyes/puppet-gentoo'
 
-dependency 'adrien/portage'
+dependency 'gentoo/portage'
