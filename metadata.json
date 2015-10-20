@@ -9,7 +9,7 @@
   "project_page": "https://github.com/Flameeyes/puppet-gentoo",
   "dependencies": [
     {
-      "name": "adrien/portage"
+      "name": "gentoo/portage"
     }
   ],
   "types": [
